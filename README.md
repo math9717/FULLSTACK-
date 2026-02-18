@@ -1,4 +1,6 @@
-hw1 vitamin 
+\# My Project
 
-date 2/17/2026
+
+
+This is my GitHub repo.
 
