@@ -1,0 +1,43 @@
+/* Q1: Set the font for the whole page */
+html {
+    font-family: "Comic Sans MS", "Comic Sans", Arial, sans-serif;
+}
+
+/* Q2: Make headings purple and Papyrus font */
+h1, h2 {
+    font-family: Papyrus, fantasy;
+    color: purple;
+}
+
+/* Q3: Style the Navigation Bar */
+ul {
+    list-style-type: none; /* Hide bullets */
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+}
+
+li {
+    display: inline-block; /* Put links side-by-side */
+}
+
+li a {
+    display: inline-block;
+    padding: 16px;         /* Space around links */
+    color: black;
+    text-decoration: none;
+}
+
+/* Q4: Hover effect for links */
+li a:hover {
+    background-color: #AAA;
+}
+
+/* Q5: Style the Footer */
+footer {
+    background-color: #DDD;
+    color: #555;
+    text-align: center;
+    padding: 16px;
+    margin-top: 20px;
+}
